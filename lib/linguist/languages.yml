@@ -7158,7 +7158,7 @@ Thrift:
   language_id: 374
 Toit:
   type: programming
-  color: "#c2c9fb"
+  color: "#fac864"
   extensions:
   - ".toit"
   tm_scope: source.toit
